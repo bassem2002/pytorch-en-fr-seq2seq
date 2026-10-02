@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+.DS_Store
+
+# Dataset
+data_seq2seq.csv
+data/
+
+# Model checkpoint
+best_seq2seq.pt
+*.pt
+*.pth
